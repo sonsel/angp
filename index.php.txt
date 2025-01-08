@@ -1,0 +1,6 @@
+<?php
+$test="yes"
+echo "hello world";
+echo $test??"test"
+
+?>
