@@ -1,0 +1,7 @@
+<?php
+echo "hello world";
+$arr=array(1,2,3,4)
+
+print_r($arr)
+
+?>
